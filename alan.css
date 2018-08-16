@@ -1,0 +1,64 @@
+nav{
+    float:  right;
+    display: list-item;
+    text-align: center;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    padding: 25px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: blue;
+}
+.box{
+    width: 100%;
+    padding-right: 20px;
+    float:;
+}
+.leftBox{
+    float: left;
+    margin: 60px;
+    padding-left: 150px;
+}
+.rightBox{
+    width: 50%;
+    float: right;
+}
+img{
+    max-height: 200px;
+    max-width: 250px;
+    border-image: 50%;
+}
+.centerBox{
+    text-align: center;
+}
+li:nth-child(odd){
+      color:red;
+      }
+li:nth-child(even){
+      color:blue;
+}
+#elon{
+    height: 250px;
+    width: 220px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+.background: {background-color: blue;
+}    
+.body {
+    background-color: lightblue;
+}
+.table {width: 100%;}
